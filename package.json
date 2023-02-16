@@ -1,0 +1,22 @@
+{
+  "name": "miprimerpaquete",
+  "version": "1.0.0",
+  "description": "un paquete de prueba para coder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillejf/miprimerpaquete.git"
+  },
+  "keywords": [
+    "coderhouse"
+  ],
+  "author": "guille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillejf/miprimerpaquete/issues"
+  },
+  "homepage": "https://github.com/guillejf/miprimerpaquete#readme"
+}
