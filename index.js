@@ -1,5 +1,5 @@
-function miprimerpaquete(txt) {
+function funcionprueba(txt) {
   return 123;
 }
 
-module.export = miprimerpaquete;
+module.exports = funcionprueba;
